@@ -18,6 +18,6 @@ https://github.com/mmyoji/go-monkey
 
 
 ## Upto
-Page 17
+Page 27
 
-Great! Let’s now extend the test case so it starts
+Chapter 2
