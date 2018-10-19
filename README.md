@@ -35,6 +35,6 @@ https://github.com/mmyoji/go-monkey
 
 
 ## Upto
-Page 44
+Page 48
 
-Thankfully, the changes we need to make are minimal
+2.6 - Parsing Expressions
