@@ -6,7 +6,8 @@
 
 ## Run Tests
 1. From the root of the project file
-2. Run tests. E.g. ```go test monkey/lexer```
+2. Run a specific test. E.g. ```go test monkey/lexer```
+2. Run all tests. ```go test monkey/...```
 
 ## Run REPL
 
