@@ -35,6 +35,6 @@ https://github.com/mmyoji/go-monkey
 
 
 ## Upto
-Page 48
+Page 54
 
-2.6 - Parsing Expressions
+Implementing the Pratt Parser
