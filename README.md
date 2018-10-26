@@ -7,7 +7,7 @@
 ## Run Tests
 1. From the root of the project file
 2. Run a specific test. E.g. ```go test monkey/lexer```
-2. Run all tests. ```go test monkey/...```
+3. Run all tests. ```go test monkey/...```
 
 ## Run REPL
 
@@ -36,6 +36,6 @@ https://github.com/mmyoji/go-monkey
 
 
 ## Upto
-Page 54
+Page 58
 
-Implementing the Pratt Parser
+Integer Literals
